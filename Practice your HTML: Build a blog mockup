@@ -7,6 +7,42 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
     </head>
     <body>
-      
+      <h1>My Mock Website!</h1>
+        <div id="page">
+            <div id="left-container" class="container">
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer" src="./images/computer1.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer2" src="./images/computer2.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer" src="./images/computer3.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer4" src="./images/computer4.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer5" src="./images/computer5.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer6" src="./images/computer6.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer7" src="./images/computer7.png" />
+                </div>
+            </div>
+            <div id="right-container" class="container">
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer8" src="./images/computer8.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer9" src="./images/computer9.png" />
+                </div>
+                <div class="computer">
+                    <img class="computer" alt="computer" id="computer10" src="./images/computer10.png" />
+                </div>
+            </div>
+        </div>
     </body>
 </html>
